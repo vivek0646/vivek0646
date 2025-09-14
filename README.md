@@ -37,9 +37,11 @@
 <br></br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek0646&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/vivek0646?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/vivek0646?label=Total%20Stars&style=for-the-badge&color=yellow)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
