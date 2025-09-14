@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek0646&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br></br>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
