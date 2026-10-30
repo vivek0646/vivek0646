@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 Second-year Computer Science Engineering student at Chitkara University
+- 🎓  Third-year  Computer Science Engineering student at Chitkara University
 - 🌱 Currently learning Data Structures & Algorithms in Java
 - 🚀 Exploring Gen AI
   <br></br>
